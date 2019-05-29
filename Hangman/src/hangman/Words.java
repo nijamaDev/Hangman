@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Words 
 {
-	private String[] words = {"paráguas", "murciélago", "correr de los problemas",
+	private String[] words = {"paraguas", "murcielago", "problemas",
 			"etcetc"};
 	public String escogerPalabra()
 	{
